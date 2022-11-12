@@ -200,15 +200,19 @@ iv) T FLIP FLOP:
 ### TIMING DIGRAMS FOR FLIP FLOPS :
 
 i) SR FLIP FLOP:
+
 ![OUTPUT](5.jpeg)
 
 ii) D FLIP FLOP:
+
 ![OUTPUT](6.jpeg)
 
 iii) JK FLIP FLOP:
+
 ![OUTPUT](7.jpeg)
 
 iv) T FLIP FLOP:
+
 ![OUTPUT](8.jpeg)
 
 
